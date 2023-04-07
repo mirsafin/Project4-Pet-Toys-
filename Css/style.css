@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,400;0,500;0,900;1,300;1,400;1,500;1,700;1,900&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/*font-family: 'Barlow', sans-serif;
+font-family: 'Roboto', sans-serif;*/
+body{
+  font-size: 16px;
+  line-height: 1.4;
+  font-family: 'Roboto', sans-serif;
+}
+img{
+  max-width: 100%;
+}
+header{
+  background-color:;
+  padding: 15px 0;
+  box-shadow: 0 0 10px #22222231;
+}
+.container{
+  /*width: 1200px;*/
+  /*padding: 0 auto;*/
+  width: calc(100% - 300px);
+  margin: 0 auto;
+  font-size: 22px;
+  color:
+}
+.flex{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.v-center{
+  align-items: center;
+
+}
+.logo{
+  flex-basis: 20%;
+  color: ;
+}
+nav{
+  flex-basis: 80%;
+  
+}
+.logo a{
+  font-size: 30px;
+  font-weight: 800;
+  text-decoration: none;
+  color: #222;
+}
+nav ul{
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: flex-end;
+}
+nav ul li{
+ list-style: none;
+}
+nav ul li a{
+ text-decoration: none;
+ padding: 12px 15px;
+ font-size: 27px;
+ color: #222;
+ display: block;
+ -bottom: 2px solid #22222200;
+ transition: all 0.4s linear;
+}
+nav ul li a:hover{
+ border-bottom:1px solid #222 ;
+  
+}
+
+
+/* Hero bener*/
+
+
+.herobenner{
+  background:rgb(250, 234, 250);
+  height: 87.5vh;
+  padding: 30px 0;
+  box-shadow: 0 0  5px #22222269;
+
+  
+}
+.herobenner h1{
+  font-size: 50px;
+  color:#222;
+}
+.herobenner p{
+  font-size: 25px;
+  padding-bottom: 30px;
+  
+}
+.herobenner h2{
+  background:tomato;
+  padding: 15px 40px;
+  font-size:20px;
+  color:#fff;
+  border-radius: 4px;
+
+
+}
+.column-1-2{
+  flex-basis: 50%;
+}
+.herobenner img{
+  width: 150%;
+}
+.safin{
+  background: rgb(250, 60, 27);
+  color: #ffffff;
+  font-size: 20px;
+  border-radius: 30px;
+  padding:13px;
+  border-color: #ffffff00;
+}
+ /* Hero bener*/
+
+.featues h1{
+  text-align: center;
+  padding: 50px;
+  font-size: 50px;
+  color: #222
+}
+.counter{
+  padding-bottom: 70px;}
+
+.counter div{
+  flex-basis: 33.33%;
+  text-align: center;
+  border-right: 3px solid red;
+}
+.counter div:last-child{
+  border-right: 0 solid #fff;
+}
+
+.green h2{
+  color: rgb(1, 211, 1);
+}
+.tometo h2{
+  color: rgb(253, 58, 23);
+}
+.yellew h2{
+  color: rgb(17, 0, 255);
+}
+.container span{
+  font-size: 16px;
+  color: #222;
+}
+
+/* Hero bener*/
+
+/*setion*/
+/*.proudct3{
+  text-align:
+}
+.proudct3 h1{
+  font-size: 50px;
+  padding-top: 50px;
+  padding-right:px;
+  text-align: center;*/
+}
+
+
+
+
+
+/*setion*/
